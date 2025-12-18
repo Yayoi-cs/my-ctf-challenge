@@ -8,7 +8,7 @@
     - A nightmare with random CGIs
 
 ## challenge
-[](https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/services/cgi-panic)
+[https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/services/cgi-panic](https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/services/cgi-panic)
 
 ## writeup
-[](https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/private_files/cgi-panic)
+[https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/private_files/cgi-panic](https://github.com/ctfplatform/icc-2025-ad-problems/tree/main/private_files/cgi-panic)

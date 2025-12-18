@@ -12,7 +12,7 @@
     - 25
 
 ## challenge
-[](https://github.com/gmo-ierae/ierae-ctf/tree/main/2025/pwn/Gotcha-Go)
+[https://github.com/gmo-ierae/ierae-ctf/tree/main/2025/pwn/Gotcha-Go](https://github.com/gmo-ierae/ierae-ctf/tree/main/2025/pwn/Gotcha-Go)
 
 ## writeup
-[](https://gmo-cybersecurity.com/blog/ierae-ctf-2025-writeup-pwn/)
+[https://gmo-cybersecurity.com/blog/ierae-ctf-2025-writeup-pwn/](https://gmo-cybersecurity.com/blog/ierae-ctf-2025-writeup-pwn/)
