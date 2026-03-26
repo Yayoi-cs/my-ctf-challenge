@@ -1,0 +1,9 @@
+services:
+  chal:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - ${PORT:-9999}:9999
+    privileged: true
+

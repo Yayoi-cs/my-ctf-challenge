@@ -1,4 +1,4 @@
-# Short Writer / Daily AlpacaHack
+# Noob programmer / Daily AlpacaHack
 
 https://alpacahack.com/daily/challenges/noob-programmer
 
